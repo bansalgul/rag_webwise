@@ -10,7 +10,6 @@ langchain-core
 langchain-community
 langchain_openai
 bs4
-streamlit.chat_input
 streamlit-chat
 huggingface-hub 
 InstructorEmbedding
