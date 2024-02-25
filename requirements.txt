@@ -9,3 +9,4 @@ langchain-core
 langchain-community
 langchain_openai
 bs4
+streamlit.chat_input
