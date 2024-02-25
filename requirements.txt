@@ -17,3 +17,4 @@ PyPDF2
 streamlit
 transformers
 openai
+st.text_input
