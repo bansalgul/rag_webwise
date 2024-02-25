@@ -1,4 +1,5 @@
 langchain
+pip==24.0
 langsmith
 python-dotenv==1.0.0
 streamlit==1.22.0
