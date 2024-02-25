@@ -10,3 +10,10 @@ langchain-community
 langchain_openai
 bs4
 streamlit.chat_input
+streamlit-chat
+huggingface-hub 
+InstructorEmbedding
+PyPDF2
+streamlit
+transformers
+openai
